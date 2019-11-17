@@ -182,7 +182,7 @@ font:
 # If `true`, bold text is drawn using the bright color variants.
 #draw_bold_text_with_bright_colors: true
 
-# Colors Atelier Sulphurpool Dark
+# Colors Atelier Sulphurpool Light
 colors:
   # Default colors
   primary:
@@ -223,7 +223,7 @@ colors:
     blue:    '0x3d8fd1'
     magenta: '0x6679cc'
     cyan:    '0x22a2c9'
-    white:   '0xf5f7ff'
+    white:   '0x5e6687'
 
   # Bright colors
   #bright:

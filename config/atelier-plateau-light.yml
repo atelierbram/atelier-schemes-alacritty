@@ -182,7 +182,7 @@ font:
 # If `true`, bold text is drawn using the bright color variants.
 #draw_bold_text_with_bright_colors: true
 
-# Colors Atelier Plateau Dark
+# Colors Atelier Plateau Light
 colors:
   # Default colors
   primary:
@@ -223,7 +223,7 @@ colors:
     blue:    '0x7272ca'
     magenta: '0x8464c4'
     cyan:    '0x5485b6'
-    white:   '0xf4ecec'
+    white:   '0x585050'
 
   # Bright colors
   #bright:

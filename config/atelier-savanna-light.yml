@@ -182,7 +182,7 @@ font:
 # If `true`, bold text is drawn using the bright color variants.
 #draw_bold_text_with_bright_colors: true
 
-# Colors Atelier Savanna Dark
+# Colors Atelier Savanna Light
 colors:
   # Default colors
   primary:
@@ -223,7 +223,7 @@ colors:
     blue:    '0x478c90'
     magenta: '0x55859b'
     cyan:    '0x1c9aa0'
-    white:   '0xecf4ee'
+    white:   '0x526057'
 
   # Bright colors
   #bright:

@@ -182,7 +182,7 @@ font:
 # If `true`, bold text is drawn using the bright color variants.
 #draw_bold_text_with_bright_colors: true
 
-# Colors Atelier Seaside Dark
+# Colors Atelier Seaside Light
 colors:
   # Default colors
   primary:
@@ -223,7 +223,7 @@ colors:
     blue:    '0x3d62f5'
     magenta: '0xad2bee'
     cyan:    '0x1999b3'
-    white:   '0xf4fbf4'
+    white:   '0x5e6e5e'
 
   # Bright colors
   #bright:

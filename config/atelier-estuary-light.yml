@@ -182,7 +182,7 @@ font:
 # If `true`, bold text is drawn using the bright color variants.
 #draw_bold_text_with_bright_colors: true
 
-# Colors Atelier Estuary Dark
+# Colors Atelier Estuary Light
 colors:
   # Default colors
   primary:
@@ -223,7 +223,7 @@ colors:
     blue:    '0x36a166'
     magenta: '0x5f9182'
     cyan:    '0x5b9d48'
-    white:   '0xf4f3ec'
+    white:   '0x5f5e4e'
 
   # Bright colors
   #bright:
