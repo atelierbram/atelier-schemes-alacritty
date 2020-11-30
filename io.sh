@@ -24,7 +24,7 @@ overwrite_to_file()
   base16-builder --scheme "db/schemes/atelier-sulphurpool.yml" --template "db/templates/alacritty/dark.ejs" > "config/atelier-sulphurpool-dark.yml"
   base16-builder --scheme "db/schemes/atelier-sulphurpool.yml" --template "db/templates/alacritty/light.ejs" > "config/atelier-sulphurpool-light.yml"
 
-#  cp "config/atelier-sulphurpool-dark.yml" "/Users/bram/.config/alacritty/alacritty.yml"
+ cp "config/atelier-sulphurpool-dark.yml" "/Users/bram/.config/alacritty/alacritty.yml"
 #  cp "config/atelier-sulphurpool-light.yml" "/Users/bram/.config/alacritty/alacritty.yml"
 }
 
